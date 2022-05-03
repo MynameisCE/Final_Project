@@ -4,6 +4,7 @@ Created on Wed Feb  9 12:35:46 2022
 
 @author: omega
 """
+#wassup
 import spotipy 
 import spotipy.util as util
 #from spotipy.oauth2 import SpotifyOAuth
